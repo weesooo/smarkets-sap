@@ -1,0 +1,52 @@
+.cards {
+  background-image: linear-gradient(#808080, #a9a9a9 40%);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  grid-template-columns: repeat(3, 32%);
+  transition: transform 80ms;
+  max-width: 100%;
+  width: auto;
+}
+.card {
+  padding: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-template-columns: repeat(3, 32%);
+  transition: transform 80ms;
+  width: auto;
+  object-fit: contain;
+  width: 300px;
+  height: auto;
+  border: solid black;
+}
+
+.card_image {
+  height: 250px;
+  padding: 2px;
+  object-fit: contain;
+  width: 300px;
+}
+.card_price {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+  padding: 10px;
+  justify-content: center;
+}
+
+.card_header {
+  padding: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: xx-large;
+  justify-content: center;
+  width: 270px;
+}
+
+.card:hover {
+  display: inline;
+}
+
+.card_image:hover {
+  display: inline;
+}

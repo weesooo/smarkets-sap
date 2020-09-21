@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smarkets-sap/static/css/main.432e3ace.chunk.css",
+    "main.js": "/smarkets-sap/static/js/main.f2bd7334.chunk.js",
+    "main.js.map": "/smarkets-sap/static/js/main.f2bd7334.chunk.js.map",
+    "runtime-main.js": "/smarkets-sap/static/js/runtime-main.ca8f1913.js",
+    "runtime-main.js.map": "/smarkets-sap/static/js/runtime-main.ca8f1913.js.map",
+    "static/js/2.609e86e3.chunk.js": "/smarkets-sap/static/js/2.609e86e3.chunk.js",
+    "static/js/2.609e86e3.chunk.js.map": "/smarkets-sap/static/js/2.609e86e3.chunk.js.map",
+    "index.html": "/smarkets-sap/index.html",
+    "precache-manifest.ef7883ec615263f28429f259381a4f4c.js": "/smarkets-sap/precache-manifest.ef7883ec615263f28429f259381a4f4c.js",
+    "service-worker.js": "/smarkets-sap/service-worker.js",
+    "static/css/main.432e3ace.chunk.css.map": "/smarkets-sap/static/css/main.432e3ace.chunk.css.map",
+    "static/js/2.609e86e3.chunk.js.LICENSE.txt": "/smarkets-sap/static/js/2.609e86e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8f1913.js",
+    "static/js/2.609e86e3.chunk.js",
+    "static/css/main.432e3ace.chunk.css",
+    "static/js/main.f2bd7334.chunk.js"
+  ]
+}

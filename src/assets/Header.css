@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.header {
+  background-color: black;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-image: linear-gradient(315deg, black 0%, #1a1b1b 74%);
+}
+
+.header_icon {
+  display: flex;
+  padding: 10px 40px;
+  overflow: hidden;
+}
+
+.header_img {
+  width: 20%;
+  height: auto;
+  cursor: pointer;
+}
+
+/* Hide the scroll bar */
+
+.header::-webkit-scrollbar {
+  display: none;
+}
+
+.form {
+  margin: 0 auto;
+  display: inline-block;
+  padding: 5px;
+  width: 500px;
+}
+
+.search {
+  margin: 0 auto;
+  display: inline-block;
+  padding: 5px;
+  width: 750px;
+  object-fit: contain;
+  height: 25x;
+  border: solid black 3px;
+}
